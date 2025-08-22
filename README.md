@@ -2,4 +2,4 @@
 Code, data, and models for our paper on power prediction in agricultural mobile robots using context-aware deep learning. Includes dataset and training scripts for forecasting energy consumption across various field conditions.
 
 
-<img width="2532" height="2812" alt="big_picture" src="https://github.com/user-attachments/assets/be01b5c7-411d-43f0-aab7-d35690ca04c6" />
+<img width="2328" height="2429" alt="big_picture" src="https://github.com/user-attachments/assets/75b02170-68b0-47fb-875a-3b09d45954ce" />
